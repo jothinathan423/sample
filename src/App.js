@@ -185,7 +185,7 @@ const Page1 = () => <div className="" style={{backgroundColor:'#e6f7ff',backgrou
 
 
 const Page2 = () => 
-<div style={{backgroundColor:'#e6f7ff',backgroundImage: 'url(IMG_20230708_163943.jpg)'}} >
+<div style={{backgroundColor:'#e6f7ff',backgroundImage: 'url(IMG_20230708_163943.jpg)',backgroundAttachment:'fixed',backgroundRepeat:'no-repeat'}} >
 <div className="container-fluid "  >
 <div className="row justify-content-center">
     <div className="col-7 m-5 shadow-lg rounded-4 " style={{backgroundColor:'white'}}>
