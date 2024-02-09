@@ -202,7 +202,7 @@ const Page1 = () => <div className="" style={{backgroundImage: 'url(IMG_20230708
 const Page2 = () => 
 <div style={{backgroundColor:'#e6f7ff',backgroundImage: 'url(IMG_20230708_163943.jpg)',backgroundAttachment:'fixed',backgroundRepeat:'no-repeat'}} >
         
-           <div className="container-fluid " href="/pit">
+           <div className="container-fluid " style={{backgroundColor:'white'}} href="/pit">
                 <div className="row justify-content-center">
                     <div className="col-7 m-5 shadow-lg rounded-4 ">
                         <div className="row bg-body-secondary rounded-4" >
